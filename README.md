@@ -21,7 +21,7 @@
 	<h2>How to run this program</h2>
 	<p>
 		To run this program, you should download the main executable file, its dataset, and a dataset readme listed below:
-		
+		<br>
 		<img width="177" alt="data" src="https://user-images.githubusercontent.com/46274806/193138226-a0afc39b-cfa9-4bb1-b485-864a8aea9f16.png">
 	</p>
 </div>
