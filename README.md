@@ -20,7 +20,11 @@
 <div id="Run">
 	<h2>How to run this program</h2>
 	<p>
-		To run this program, you should download the main executable file and its dataset listed below:
+		To run this program, you should download the main executable file, its dataset, and a dataset readme listed below:
+			-Hello-World
+			|_____main.exe
+			|_____dataset.xlsx
+			|_____dataset_info.txt
 	</p>
 </div>
 
