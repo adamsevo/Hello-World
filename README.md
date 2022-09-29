@@ -21,7 +21,7 @@
 	<h2>How to run this program</h2>
 	<p>
 		To run this program, you should download the main executable file, its dataset, and a dataset readme listed below:
-		[![data](/data.png)]
+		![Path](/data.png "Optional title")
 	</p>
 </div>
 
