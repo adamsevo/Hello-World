@@ -1,11 +1,14 @@
 # Welcome to my Hello-World ReadMe!
+
+<p style="color:#FF0000">Sample Project.</p>
+## Project Name: #FF0000 Sample Project
 ### Table of Contents
 
-* <a href="#Overview">Project Overview</a>
-* <a href="#Run">How to run this program</a>
-* <a href="#Resources">Resources and packages used</a>
-* <a href="#Documentation">Documentation</a>
-* <a href="#Version">Version History</a>
+1. <a href="#Overview">Project Overview</a>
+2. <a href="#Run">How to run this program</a>
+3. <a href="#Resources">Resources and packages used</a>
+4. <a href="#Documentation">Documentation</a>
+5. <a href="#Version">Version History</a>
 
 <div id="Overview">
 	<h2>Project Overview</h2>
