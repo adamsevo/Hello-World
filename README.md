@@ -29,7 +29,7 @@
 <div id="Resources">
 	<h2>Project Overview</h2>
 	<p>
-		This is a list of information about the resources used to build this project, including this [link](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) to a dataset: 
+		This is a list of information about the resources used to build this project, including this [link](www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) to a dataset: 
 	</p>
 </div>
 
