@@ -2,10 +2,10 @@
 ### Table of Contents
 
 * <a href="#Overview">Project Overview</a>
-* <a href="Run">How to run this program</a>
-* <a href="Resources">Resources and packages used</a>
-* <a href="Documentation">Documentation</a>
-* <a href="Version">Version History</a>
+* <a href="#Run">How to run this program</a>
+* <a href="#Resources">Resources and packages used</a>
+* <a href="#Documentation">Documentation</a>
+* <a href="#Version">Version History</a>
 
 <div id="Overview">
 	<h2>Project Overview</h2>
