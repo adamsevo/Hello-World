@@ -1,7 +1,7 @@
 # Welcome to my Hello-World ReadMe!
 
-<p style="color:#FF0000">Sample Project.</p>
-## Project Name: #FF0000 Sample Project
+
+## **Project Name:** *Sample Project*
 ### Table of Contents
 
 1. <a href="#Overview">Project Overview</a>
